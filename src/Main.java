@@ -14,7 +14,7 @@ import java.util.Set;
 
 	This project has anwsers from these problems:
 
-	1) http://rosalind.info/problems/dna/
+	1) http://rosalind.info/problems/dna/ 
 	2) http://rosalind.info/problems/rna/
 	3) http://rosalind.info/problems/revc/
 	4) http://rosalind.info/problems/hamm/
