@@ -1,4 +1,4 @@
-# This project has solutions from some problems find at Rosalind Plataform.
+# This project has solutions from some problems found in the Rosalind Plataform.
 
 # ROSALIND-in-JAVA
 
